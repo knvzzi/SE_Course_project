@@ -1,0 +1,58 @@
+int fn Func(int p, int c)
+[
+var int x;
+var int prev=p;
+var int cur=c;
+var int temp;
+until(x=5;) 
+[
+temp=cur;
+cur=temp+prev;
+prev=temp;
+x=x+1;
+];
+reout cur;
+];
+
+major
+[
+
+var int rez;
+var int other;
+var string m='ffffffffffffffffff';
+var string n; 
+var string q;
+var string e;
+var string s;
+
+m=' chisla  ';
+n=' fibonachi ';
+q=joinst(m,n);
+write q;
+
+rez=Func(1,1);
+write rez;
+
+n=' chislo ';
+m=' other ';
+
+q=m+n;
+write q;
+
+var int oct;
+oct = Ox11;
+
+other=oct+rez;
+write other;
+
+s=copystr(e,m);
+write s;
+
+var int bin;
+bin = Bx11;
+
+other=bin+rez;
+write other;
+
+reout 0;
+];

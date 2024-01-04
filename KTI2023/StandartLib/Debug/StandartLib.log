@@ -1,0 +1,31 @@
+﻿Сборка начата 08.12.2023 02:51:56.
+Уровень детализации журнала: Normal.     1>Проект "C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\StandartLib\StandartLib.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\StandartLib.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\StandartLib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\StandartLib.pch" /Fo"Debug\\" /Fd"C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\Debug\StandartLib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\StandartLib.pch" /Fo"Debug\\" /Fd"C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\Debug\StandartLib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt StandartLib.cpp
+         StandartLib.cpp
+     1>C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\StandartLib\StandartLib.cpp(23): warning C4172: возвращение адреса локальной или временной переменной : buf
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\Debug\StandartLib.lib" /NOLOGO /MACHINE:X86 Debug\pch.obj
+         Debug\StandartLib.obj
+         StandartLib.vcxproj -> C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\Debug\StandartLib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\StandartLib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\StandartLib.tlog\StandartLib.lastbuildstate".
+     1>Сборка проекта "C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\StandartLib\StandartLib.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\StandartLib\StandartLib.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\ПОИТ\3 sem\SE_Course_project\KTI-2023\KTI2023\StandartLib\StandartLib.cpp(23): warning C4172: возвращение адреса локальной или временной переменной : buf
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.85

@@ -1,0 +1,70 @@
+int fn Func(int x, int y)
+[
+var int z;
+until(y=10;)
+[
+write z;
+z=N*i;
+i=i+1;
+];
+reout z;
+];
+
+major
+[
+var int x=5;
+var int y=1;
+var int g=1000000000000000000000000000000000000000000;
+write g;
+var string m;
+var string n; 
+var string q;
+var string e;
+var string s;
+m='hello ';
+n='world ';
+until(x=5;)
+[
+x=x+3;
+write x;
+];
+write x;
+write Func(5,122);int fn Func(int x, int y)
+[
+var int z;
+z= x*(-7+y)%3;
+reout z;
+];
+
+major
+[
+var int hui;
+var int x=5;
+var int y=1;
+write Func(x,y);
+var int g=1000000000000000000000000000000000000000000;
+write g;
+var string m;
+var string n; 
+var string q;
+var string e;
+var string s;
+m='hello ';
+n='world ';
+until(x=5;)
+[
+x=x+3;
+write x;
+];
+write 'hi';
+q=joinst(m,n);
+write q;
+q=n+m;
+write q;
+s=copystr(e,m);
+write s;
+var int l;
+l=-Ox13;
+write l;
+reout 0;
+];
